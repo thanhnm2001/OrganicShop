@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora&display=swap");
+
+* {
+  font-family: "Sora", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#navbar-brand {
+  margin-right: 100px;
+}
+
+.con {
+  margin-top: -100px;
+  background-color: aliceblue;
+  width: 400px;
+  height: 550px;
+  margin-left: -550px;
+}
+.con_a {
+  margin-top: -100px;
+  background-color: aliceblue;
+  width: 400px;
+  height: 550px;
+  margin-left: -550px;
+}
+.container {
+  display: flex;
+  margin-top: 10px;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+.img-flui_a {
+  width: 1428px;
+  height: 595px;
+  margin-left: -79px;
+}
+
+.img-flui {
+  width: 1428px;
+  height: 595px;
+  margin-left: -79px;
+}
+.bg-dark {
+  background-image: var(--bs-gradient);
+}
+
+.p-3 {
+  height: 400px;
+}
+.vc_empty_space {
+  height: 100px;
+}
+.vc_custom_heading {
+  font-size: 18px;
+  color: #383848;
+  line-height: 40px;
+  text-align: center;
+}
+.wpb_single_image.vc_align_center {
+  text-align: center;
+}
+.vcc1 {
+  color: #959393;
+  font-size: 15px;
+  line-height: 24px;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
+}
+.out_organic {
+  background-color: #e3e8e8;
+  margin-top: -20px;
+}
+.vc_empty_space {
+  height: 32px;
+}
+.high {
+  margin-left: 586px;
+}
+.high1 {
+  margin-left: 426px;
+}
+.high2 {
+  margin-left: 456px;
+}
+.recipes {
+  margin-left: 100px;
+  margin-top: 15px;
+}
+#h1 {
+  margin-left: 400px;
+  margin-top: -873px;
+}
+#z1 {
+  margin-left: 500px;
+  padding-top: 200px;
+}
+.pagi {
+  margin-left: 855px;
+}
+.formlh {
+  margin-left: 100px;
+  margin-top: 400px;
+}
+
+.sp1 {
+  margin-top: 30px;
+  margin-left: 80px;
+}
+.sp2 {
+  margin-top: 50px;
+  margin-left: 80px;
+}
+.sp3 {
+  margin-top: -950px;
+  margin-left: 500px;
+}
+.sp4 {
+  margin-top: 50px;
+  margin-left: 500px;
+}
+.sp5 {
+  margin-top: -950px;
+  margin-left: 950px;
+}
+.sp6 {
+  margin-top: 50px;
+  margin-left: 950px;
+}
+.d-flex {
+  width: 600px;
+  margin-left: 350px;
+  margin-top: 20px;
+}
+.home {
+  scale: initial;
+}
